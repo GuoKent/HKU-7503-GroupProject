@@ -6,7 +6,5 @@ main.py
 Outline.md
 
 imgs/
-
-__pycache__
-
+**/__pycache__/
 output/
